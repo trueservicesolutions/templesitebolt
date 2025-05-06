@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "gallery": "Gallery",
+    "donate": "Donate",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Preserving Tradition, Building Community",
+    "subtitle": "Join us in our mission to maintain our sacred temple and serve our community through spiritual guidance and charitable work.",
+    "donateButton": "Donate Now",
+    "programsButton": "Our Programs"
+  },
+  "about": {
+    "title": "Our Sacred Mission",
+    "description1": "Founded in 1985, Divine Temple has been a pillar of spiritual guidance and community service. Our non-profit organization works tirelessly to preserve our ancient traditions while adapting to serve the evolving needs of our community.",
+    "description2": "We believe in the power of faith to transform lives and communities. Through our various programs, charitable initiatives, and regular ceremonies, we strive to create a space where everyone can find peace, purpose, and belonging.",
+    "vision": {
+      "title": "Our Vision",
+      "text": "To create a harmonious society through spiritual wisdom and compassionate service."
+    },
+    "values": {
+      "title": "Our Values",
+      "text": "Compassion, integrity, devotion, community, and selfless service."
+    }
+  }
+}
